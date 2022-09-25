@@ -1,0 +1,23 @@
+.dsa-container {
+  background-color: rgba(0, 255, 255, 0.125);
+
+}
+
+.dsa-topics {
+  padding:10px 30px;
+
+}
+.dsa-topics:hover {
+  background-color: rgba(0, 255, 255, 0.325);
+}
+
+.keys {
+  padding:10px 30px;
+}
+
+.current {
+  background-color: aqua;
+  padding:10px 30px;
+  /* width: 100%;
+  border-radius: 4px; */
+}
